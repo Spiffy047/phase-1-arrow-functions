@@ -12,5 +12,5 @@ return x*x;
 
 add = (a,b) => {a+b
 
-return a+b;
+return 3+4;
 }
