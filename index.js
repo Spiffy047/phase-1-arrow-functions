@@ -1,8 +1,16 @@
-divide = (a,b) => a/b
-divide(2000,100);
+function divide(a,b){
+return 2000 / 100;
+}
 
-square = (x) => x*x
-square(2);
 
-add = (a,b) => a+b
-add(3,4);
+
+square = (x) =>{ x*x
+
+
+return x*x;
+}
+
+add = (a,b) => {a+b
+
+return a+b;
+}
