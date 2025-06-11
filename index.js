@@ -10,7 +10,7 @@ square = (x) =>{ x*x
 return x*x;
 }
 
-add = (a,b) => {a+b
+const add = (a,b) => {
 
 return 3+4;
 }
